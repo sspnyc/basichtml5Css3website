@@ -20,6 +20,6 @@
 /mobilesize
 ```
 <center><img src="/mobileImgA.png" width='350'></center>
-<center><img src="/mobileImgA.png" width='350'></center>
+<center><img src="/mobileImgB.png" width='350'></center>
 
 
